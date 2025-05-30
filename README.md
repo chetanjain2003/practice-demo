@@ -1,4 +1,4 @@
 # practice-demo
 This is my Second Git file.
 <br>
-Author - Stark(poornima)
+Author - Stark(poornima university)
